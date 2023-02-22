@@ -1,6 +1,6 @@
 # Catalytic Scylla blog
 
-This small project will is used in the Scylla blog: ADD LINK
+This small project which is used in the Scylla blog: https://www.scylladb.com/2022/02/15/introducing-catalytic-an-orm-designed-for-scylladb-and-cassandra-written-in-rust/
 
 It demonstrates how you can:
 - use the table_to_struct crate to generate code 
